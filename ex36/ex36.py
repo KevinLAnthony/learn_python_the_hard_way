@@ -149,8 +149,4 @@ def bees():
 			print("Please answer \"1\" to keep moving or \"2\" to swim back across the river.")
 
 
-
-
-
-
 begin()
