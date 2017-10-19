@@ -1,0 +1,6 @@
+print("\\I'm using backslash escape sequence.")
+print("\'I'm using a single-quote escape sequence.")
+print('I\'m using a single-quote escape sequence.')
+print('\'I\'m using single-quote escape sequences.')
+print("I'm using a \"double-quote\" escape sequence.")
+print("I'm using a\a ASCII bell escape sequence, which makes a bell noise when I run the program.")
